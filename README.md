@@ -1,2 +1,2 @@
 # node-jest
-Simple NodeJs app implemented with TDD using JEST.
+Simple NodeJs app implemented with TDD using Jest.
